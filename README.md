@@ -1,2 +1,0 @@
-# RepoPrime
-First Repository
